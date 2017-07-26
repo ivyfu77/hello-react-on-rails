@@ -12,7 +12,7 @@ gem 'rails', '~> 5.1.2'
 # Use latest gem version, prefer exact version
 gem 'react_on_rails', '8.0.0'
 
-# Use sqlite3 as the database for Active Record
+# Use postgresql as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
