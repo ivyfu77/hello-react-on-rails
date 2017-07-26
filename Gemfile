@@ -13,7 +13,7 @@ gem 'rails', '~> 5.1.2'
 gem 'react_on_rails', '8.0.0'
 
 # Use postgresql as the database for Active Record
-gem 'sqlite3'
+gem 'pg'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
